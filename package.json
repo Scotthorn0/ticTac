@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac",
+  "version": "1.0.0",
+  "description": "CLI tic-tac-toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "mock-stdin": "^0.3.1",
+    "sinon": "^1.17.7"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
